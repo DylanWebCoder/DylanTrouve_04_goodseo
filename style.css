@@ -1060,6 +1060,13 @@ h4 {
     width: 100px;
 }
 
-.adjustmargtop{
-    margin-top: 40px;
+.contact-coord{
+    margin-top: 20px;
+}
+
+.contact-coord li{
+    list-style-type:none;
+    color: black;
+    margin-bottom: 5px;
+    font-size: 20px;
 }
